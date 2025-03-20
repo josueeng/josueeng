@@ -1,5 +1,5 @@
 # 💫 About Me:
-Sou um desenvolvedor full-stack apaixonado por criar soluções elegantes e eficientes. Minha jornada no mundo da programação começou com linguagens como Python e JavaScript, node e desde então tenho explorado frameworks como React, angular.
+Sou um desenvolvedor full-stack apaixonado por criar soluções elegantes e eficientes. Minha jornada no mundo da programação começou com linguagens como Python e JavaScript, node e desde então tenho explorado frameworks como React, angular
 
 
 ## 🌐 Socials:
